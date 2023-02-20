@@ -2,6 +2,6 @@
 
 echo "Salam";
 echo "Hello world";
-echo "Hello 77";
+echo "Hello 56";
 
 ?>
